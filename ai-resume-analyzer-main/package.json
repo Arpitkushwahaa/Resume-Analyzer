@@ -1,5 +1,12 @@
 {
   "name": "ai-resume-analyzer",
+  "version": "1.0.0",
+  "description": "AI-powered resume analyzer with ATS scoring and detailed feedback",
+  "author": "Arpit Kushwaha <https://github.com/arpitkushwaha>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arpitkushwaha/ai-resume-analyzer.git"
+  },
   "private": true,
   "type": "module",
   "scripts": {
