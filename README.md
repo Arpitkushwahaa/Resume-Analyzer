@@ -1,6 +1,9 @@
 <div align="center">
 
-![App Screenshot](./screenshot.png)
+<img src="./screenshot.png" alt="App Screenshot" width="700"/>
+
+</div>
+
 
 **Smart feedback for your dream job!**
 
