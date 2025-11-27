@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![App Screenshot](./app/components/Screenshot%20%281059%29.png)
+![App Screenshot](./Screenshot (1059).png)
 
 
 **Smart feedback for your dream job!**
