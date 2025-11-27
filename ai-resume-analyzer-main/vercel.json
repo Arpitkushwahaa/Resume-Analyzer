@@ -1,5 +1,8 @@
 {
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
   "outputDirectory": "build/client",
+  "framework": null,
   "functions": {
     "api/server.js": {
       "maxDuration": 30
