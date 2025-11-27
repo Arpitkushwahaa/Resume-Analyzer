@@ -1,8 +1,6 @@
-# Resumind - AI Resume Analyzer
-
 <div align="center">
 
-![App Screenshot](./ai-resume-analyzer-main/Screenshot (1059).png)
+![App Screenshot](./screenshot.png)
 
 **Smart feedback for your dream job!**
 
@@ -12,6 +10,7 @@ An intelligent resume analysis tool powered by AI that provides comprehensive fe
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
+
 
 ---
 
