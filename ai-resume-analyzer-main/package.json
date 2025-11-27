@@ -9,6 +9,9 @@
   },
   "private": true,
   "type": "module",
+  "engines": {
+    "node": ">=20.x"
+  },
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
