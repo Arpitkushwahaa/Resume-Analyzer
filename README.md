@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./screenshot.png" alt="App Screenshot" width="700"/>
-
-</div>
+![App Screenshot](./ai-resume-analyzer-main/Screenshot.png)
 
 
 **Smart feedback for your dream job!**
