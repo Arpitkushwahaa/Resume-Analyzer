@@ -1,6 +1,10 @@
+
 # Resumind - AI Resume Analyzer
 
 <div align="center">
+
+![App Screenshot](./app/components/Screenshot%20%281059%29.png)
+
 
 **Smart feedback for your dream job!**
 
